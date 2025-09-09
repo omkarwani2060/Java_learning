@@ -7,7 +7,6 @@ public class spcf1 {
         System.out.println("within class but without package:  " + obj.str1);
     }
     public static void main(String[] args) {
-
     }
 }
 
